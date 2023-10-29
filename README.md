@@ -32,7 +32,7 @@
 ## Data Preprocessing:
 - Missing Values: No missing values in the dataset.
 - Data Cleaning: NA
-- Feature Engineering: Created three dummy variables from `area code`.
+- Feature Engineering: One-hot encoding for `area code`.
 - Data Transformation:
 - Assumptions:
 
