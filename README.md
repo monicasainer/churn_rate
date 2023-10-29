@@ -8,7 +8,7 @@
 
 ## Data Fields:
 - `State` : The state where a customer comes from (string)
-- `International plan` : The status of customer international plan (string) 
+- `International plan` : The status of customer international plan (string)
 - `Voicemail plan` : The status of customer voicemail plan (string)
 - `Account length` : Number of days a customer has been using services (integer)
 - `Area code` : The area where a customer comes from (integer)
@@ -30,11 +30,11 @@
 - `Churn` : Whether a customer is churned or not (boolean)
 
 ## Data Preprocessing:
-- Missing Values: 
-- Data Cleaning: 
-- Feature Engineering: 
-- Data Transformation: 
-- Assumptions: 
+- Missing Values: No missing values in the dataset.
+- Data Cleaning: NA
+- Feature Engineering: Created three dummy variables from `area code`.
+- Data Transformation:
+- Assumptions:
 
 ## Data Format:
 - CSV file format
